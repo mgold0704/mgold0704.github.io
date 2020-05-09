@@ -68,7 +68,7 @@ html, body {
 	border:0;
 }
 
-.year a:link {
+.year a {
 	color:#0000FF;
 	font-weight:bold;
 	text-decoration:none;
@@ -80,7 +80,7 @@ html, body {
 	border-top:1px solid #FF0000;
 }
 
-.year1 a:link {
+.year1 a {
 	color:#0000FF;
 	font-weight:bold;
 	text-decoration:none;
