@@ -68,7 +68,7 @@ html, body {
 	border:0;
 }
 
-.year a:link {
+.year a {
 	color:#0000FF;
 	font-weight:bold;
 	text-decoration:none;
@@ -76,12 +76,6 @@ html, body {
 
 .year a:hover {
 	color:#FF0000;
-	border-bottom:1px solid #FF0000;
-	border-top:1px solid #FF0000;
-}
-
-.year a:visited {
-	color:#0000FF;
 	border-bottom:1px solid #FF0000;
 	border-top:1px solid #FF0000;
 }
@@ -96,8 +90,4 @@ html, body {
 	color:#FF0000;
 	border-bottom:1px solid #FF0000;
 	border-top:1px solid #FF0000;
-}
-
-.year1 a:visited {
-	color:#0000FF;
 }
